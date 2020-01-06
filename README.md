@@ -4,7 +4,9 @@ Testing the ability to pull design tokens from Figma files and generate differen
 Based on https://medium.com/@PavelLaptev/design-tokens-with-figma-aef25c42430f
 
 ## Setup
-Get a personal API token for Figma then add `FIGMA_API_TOKEN` as an environment variable. 
+Get a personal API token for Figma then add `FIGMA_API_TOKEN` as an environment variable.
+
+I can give you the figma ID that needs to be added as `FIGMA_ID`.
 
 ## Install
 ```
