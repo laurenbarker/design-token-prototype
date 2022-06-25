@@ -7,7 +7,7 @@
     "build": "node --experimental-modules ./main.mjs"
   },
   "devDependencies": {
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "style-dictionary": "^2.8.3"
   }
 }
